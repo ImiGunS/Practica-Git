@@ -3,3 +3,6 @@ Activitat Control de Versions 1 de la UF2.  Aquesta activitat comporta l'utilitz
 
 ## PART MODIFICADA
 Avui és dia 30/12/2021
+
+## GIT RESET
+Aquesta modificació serà per testar el GIT RESET
